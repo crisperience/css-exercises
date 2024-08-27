@@ -1,0 +1,16 @@
+/* Shared styles */
+.left-button, .right-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Unique style */
+.left-button {
+    background-color: black;
+    color: white;
+}
+
+/* Unique style */
+.right-button {
+    background-color: yellow;
+}
