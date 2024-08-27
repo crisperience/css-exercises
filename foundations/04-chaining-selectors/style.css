@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+/* Chained selector for avatar + proportioned */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+/* Chained selector for avatar + distorted */
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
