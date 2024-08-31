@@ -18,13 +18,7 @@ body {
   padding: 8px;
 }
 
-.left-container {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.right-container {
+.left-container, .right-container {
   display: flex;
   align-items: center;
   gap: 16px;
